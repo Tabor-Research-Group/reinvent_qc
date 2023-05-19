@@ -14,7 +14,7 @@ This repository includes:
  1. Clone this GitHub repo
  2. Create a conda environment with reinvent.yml
 ```bash
-  conda env create -f reinvent.yml
+$ conda env create -f reinvent.yml
 ```
 ## Requirements
 
