@@ -9,7 +9,7 @@ This repository includes:
  - Scripts for setting up configurations and starting training for REINVENT in `./run`
 
 ## Installation
-> Note: The part of source codes related to job management and data parsing may need to modified to fit your own system.
+> Note: The part of source codes related to job management and data parsing may need to be modified to fit your own system.
 
  1. Clone this GitHub repo
  2. Create a conda environment with reinvent.yml
