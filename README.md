@@ -5,6 +5,7 @@ This repository includes:
 
  - REINVENT and related packages in `./REINVENT` and `./pkgs`
  - Initial ChEMBL prior network in `./data`
+ - Calibration set along with TD-DFT results and references in `./calibration`
  - Results for generated molecules in `./results`
  - Scripts for setting up configurations and starting training for REINVENT in `./run`
 
