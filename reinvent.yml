@@ -211,9 +211,9 @@ dependencies:
     - markdown==3.2.1
     - opt-einsum==3.2.0
     - protobuf==3.11.3
-    - -f ./data/reinvent_chemistry
-    - -f ./data/reinvent_scoring
-    - -f ./data/reinvent_models
+    - -f ./pkgs/reinvent_chemistry
+    - -f ./pkgs/reinvent_scoring
+    - -f ./pkgs/reinvent_models
     - tensorboard==1.15.0
     - tensorflow==1.15.2
     - tensorflow-estimator==1.15.1
